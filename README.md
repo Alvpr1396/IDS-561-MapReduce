@@ -12,14 +12,14 @@ Airbnb listings face competition from other Airbnbs rather than hotels. It is as
 
 To strengthen our work background, we use another source of research related to this topic, which is predicting list prices on airbnb dataset. The purpose of this research is solely to generate competitive prices for a list of airbnb’s. Referring to this research, we would like to do some predictive analysis regarding the airbnb pricing with other approaches such as regression algorithms.
 
-#3. Methodology
+# 3. Methodology
 
-#3.1. Exploratory Data Analysis
+# 3.1. Exploratory Data Analysis
 Getting to know the patterns of the data using specific packages. The dataset was collected from kaggle which consist of Airbnb reservation details around the world.
 
-#3.2 Preprocessing
+# 3.2 Preprocessing
 The preprocessing will be done by performing data cleansing on junk values and missing data. The next step to do is to separate the numerical and categorical columns. It also included with changing the categorical columns with numeric value.
 
-#3.3 Data Modelling
+# 3.3 Data Modelling
 For these specific datasets I used several models and evaluation metric such as MSE and MAE to evaluate the model generated. Before validating each sets made by our models, I used Principal Component Analysis to reduce the features inside of Airbnb data.
 
